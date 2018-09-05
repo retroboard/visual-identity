@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38375274"
-     inkscape:cx="1005.0359"
-     inkscape:cy="533.21822"
+     inkscape:zoom="0.27135417"
+     inkscape:cx="893.30724"
+     inkscape:cy="262.29658"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,12 +101,12 @@
      style="display:inline"
      transform="translate(137.85123,17.657415)">
     <rect
-       style="opacity:1;fill:#429488;fill-opacity:1;stroke:none;stroke-width:0.30723408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.30723406, 0.92170217;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#429488;fill-opacity:1;stroke:none;stroke-width:0.33492446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.33492445, 1.00477333;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10"
-       width="116.45978"
+       width="138.39836"
        height="34.136517"
-       x="-124.10141"
-       y="39.716728"
+       x="-130.43924"
+       y="35.816532"
        ry="1.0687529" />
     <image
        y="80.900078"
@@ -121,7 +121,7 @@
        y="0"
        xlink:href="#rect10"
        id="use27"
-       transform="translate(0,37.831864)"
+       transform="translate(0,39.428183)"
        width="100%"
        height="100%" />
     <use
@@ -129,15 +129,15 @@
        y="0"
        xlink:href="#use27"
        id="use29"
-       transform="translate(0,37.831864)"
        width="100%"
-       height="100%" />
+       height="100%"
+       transform="translate(0,39.428183)" />
     <use
        x="0"
        y="0"
        xlink:href="#use29"
        id="use31"
-       transform="translate(0,37.831864)"
+       transform="translate(0,39.428184)"
        width="100%"
        height="100%" />
     <use
@@ -145,7 +145,7 @@
        y="0"
        xlink:href="#use31"
        id="use33"
-       transform="translate(0,37.83187)"
+       transform="translate(0,39.428183)"
        width="100%"
        height="100%" />
     <use
@@ -153,14 +153,16 @@
        y="0"
        xlink:href="#use33"
        id="use35"
-       transform="translate(0,37.831862)"
+       transform="translate(0,39.428183)"
        width="100%"
        height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="header">
+     inkscape:label="header"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        ry="0"
        y="26.349777"
@@ -173,7 +175,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="logo">
+     inkscape:label="logo"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(0.16362766,0,0,0.16362766,194.80633,-29.440534)"
        style="display:inline;fill:#ffffff;stroke:none"
